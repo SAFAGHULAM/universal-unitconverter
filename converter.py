@@ -1,7 +1,6 @@
 import streamlit as st
 from forex_python.converter import CurrencyRates
 import requests
-import matplotlib.pyplot as plt
 import pandas as pd
 
 st.title("Universal Unit Converter🌎")
